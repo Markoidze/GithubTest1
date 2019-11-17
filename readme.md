@@ -6,4 +6,4 @@ some list:
 * Topic 1
 * Topic 2
 
-[google.com](google.com)
+[google.com](https://www.google.com/)
